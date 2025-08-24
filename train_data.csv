@@ -1,0 +1,801 @@
+Unnamed: 0,User_ID,Age,Gender,Location,Income,Interests,Last_Login_Days_Ago,Purchase_Frequency,Average_Order_Value,Total_Spending,Time_Spent_on_Site_Minutes,Pages_Viewed,Newsletter_Subscription,Product_Category_Preference_Apparel,Product_Category_Preference_Books,Product_Category_Preference_Electronics,Product_Category_Preference_Health & Beauty,Product_Category_Preference_Home & Kitchen,Top_Category
+29,#30,44,Female,Urban,88056,Travel,6,8,18,2829,509,40,True,False,False,True,False,False,Product_Category_Preference_Electronics
+535,#536,38,Female,Urban,32763,Technology,5,7,154,4118,569,18,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+695,#696,45,Male,Suburban,145149,Technology,23,6,126,2249,129,48,False,False,True,False,False,False,Product_Category_Preference_Books
+557,#558,47,Male,Urban,96975,Food,29,8,83,736,561,32,False,True,False,False,False,False,Product_Category_Preference_Apparel
+836,#837,46,Female,Urban,23828,Technology,1,8,41,3357,440,26,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+596,#597,28,Male,Urban,132782,Food,29,2,26,4310,458,15,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+165,#166,59,Female,Rural,104045,Food,2,2,187,3289,558,27,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+918,#919,53,Female,Urban,64409,Food,10,9,177,4574,562,18,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+495,#496,37,Male,Suburban,148734,Food,11,7,135,3345,306,2,False,True,False,False,False,False,Product_Category_Preference_Apparel
+824,#825,48,Male,Urban,63056,Travel,13,4,196,2569,490,3,False,True,False,False,False,False,Product_Category_Preference_Apparel
+65,#66,21,Female,Rural,43762,Fashion,14,5,128,806,382,11,True,False,True,False,False,False,Product_Category_Preference_Books
+141,#142,32,Female,Suburban,53937,Travel,23,7,29,1912,450,13,False,False,True,False,False,False,Product_Category_Preference_Books
+925,#926,61,Female,Suburban,56636,Sports,26,8,83,3600,173,25,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+827,#828,25,Male,Urban,78557,Travel,18,1,66,2705,529,37,False,False,False,True,False,False,Product_Category_Preference_Electronics
+655,#656,61,Male,Urban,127945,Food,10,0,170,4125,384,18,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+331,#332,52,Male,Urban,66760,Food,10,6,158,4637,135,1,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+664,#665,54,Female,Urban,68200,Travel,8,5,177,4335,134,30,False,False,True,False,False,False,Product_Category_Preference_Books
+249,#250,56,Male,Suburban,113583,Fashion,12,2,176,3482,126,41,False,False,False,True,False,False,Product_Category_Preference_Electronics
+907,#908,34,Male,Urban,44995,Fashion,13,6,117,1318,541,12,True,False,False,True,False,False,Product_Category_Preference_Electronics
+708,#709,63,Female,Rural,83095,Technology,28,6,196,2024,189,31,False,True,False,False,False,False,Product_Category_Preference_Apparel
+305,#306,25,Male,Rural,107896,Fashion,16,6,191,3227,403,43,True,True,False,False,False,False,Product_Category_Preference_Apparel
+734,#735,58,Male,Urban,92692,Technology,23,6,128,908,142,47,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+975,#976,21,Female,Suburban,27461,Fashion,13,9,108,112,47,14,False,False,False,True,False,False,Product_Category_Preference_Electronics
+49,#50,37,Male,Suburban,55851,Sports,4,0,73,3915,419,6,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+896,#897,42,Male,Rural,86262,Food,15,7,191,398,545,35,True,False,False,True,False,False,Product_Category_Preference_Electronics
+2,#3,32,Female,Suburban,101942,Sports,28,1,146,3766,306,1,True,True,False,False,False,False,Product_Category_Preference_Apparel
+544,#545,35,Female,Urban,115648,Travel,19,0,26,4871,69,1,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+350,#351,40,Male,Suburban,85633,Fashion,2,3,184,2017,447,9,False,False,False,True,False,False,Product_Category_Preference_Electronics
+904,#905,43,Female,Suburban,102909,Food,15,6,195,2313,345,22,False,False,False,True,False,False,Product_Category_Preference_Electronics
+536,#537,53,Female,Suburban,79165,Fashion,23,5,66,1940,433,24,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+344,#345,63,Male,Rural,146468,Food,8,6,81,739,101,15,False,False,False,True,False,False,Product_Category_Preference_Electronics
+994,#995,27,Female,Rural,37858,Travel,10,1,60,311,195,37,False,True,False,False,False,False,Product_Category_Preference_Apparel
+481,#482,27,Male,Urban,125487,Technology,5,5,52,358,60,18,True,True,False,False,False,False,Product_Category_Preference_Apparel
+575,#576,64,Female,Rural,94663,Technology,28,2,56,4944,65,37,False,False,True,False,False,False,Product_Category_Preference_Books
+33,#34,32,Male,Urban,124749,Fashion,5,6,51,2893,153,47,False,True,False,False,False,False,Product_Category_Preference_Apparel
+31,#32,45,Male,Suburban,54196,Fashion,16,9,20,3240,477,39,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+231,#232,50,Female,Urban,82424,Food,19,9,102,2540,300,17,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+963,#964,47,Female,Suburban,87534,Technology,6,0,53,759,542,16,True,True,False,False,False,False,Product_Category_Preference_Apparel
+192,#193,61,Female,Suburban,81330,Fashion,17,7,88,1960,292,26,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+333,#334,61,Female,Rural,64629,Fashion,21,3,18,827,105,24,True,True,False,False,False,False,Product_Category_Preference_Apparel
+3,#4,60,Female,Suburban,71612,Fashion,18,3,163,4377,527,29,False,True,False,False,False,False,Product_Category_Preference_Apparel
+204,#205,34,Male,Urban,133737,Fashion,29,9,107,1411,83,43,True,True,False,False,False,False,Product_Category_Preference_Apparel
+514,#515,48,Male,Suburban,117756,Fashion,4,2,45,1517,325,32,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+799,#800,41,Male,Urban,106795,Technology,6,8,175,466,218,26,True,False,False,True,False,False,Product_Category_Preference_Electronics
+306,#307,24,Female,Urban,82292,Technology,13,6,122,4668,11,18,True,True,False,False,False,False,Product_Category_Preference_Apparel
+109,#110,59,Male,Suburban,85697,Travel,23,3,15,184,436,22,False,False,False,True,False,False,Product_Category_Preference_Electronics
+430,#431,45,Female,Rural,95939,Fashion,2,7,114,2168,99,29,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+77,#78,31,Male,Suburban,87364,Food,17,1,120,2298,20,31,False,True,False,False,False,False,Product_Category_Preference_Apparel
+84,#85,64,Female,Urban,100073,Technology,3,4,192,513,186,14,False,False,False,True,False,False,Product_Category_Preference_Electronics
+286,#287,52,Male,Urban,70601,Sports,27,8,68,3175,355,46,True,True,False,False,False,False,Product_Category_Preference_Apparel
+82,#83,62,Female,Urban,139654,Sports,19,7,77,4528,31,28,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+991,#992,20,Male,Rural,113547,Technology,27,9,65,1881,163,16,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+789,#790,51,Female,Urban,62752,Travel,21,3,95,4523,248,47,True,False,False,True,False,False,Product_Category_Preference_Electronics
+894,#895,52,Female,Rural,55820,Fashion,9,4,163,4546,338,37,False,False,False,True,False,False,Product_Category_Preference_Electronics
+398,#399,49,Female,Urban,49118,Technology,20,3,35,2497,73,30,True,True,False,False,False,False,Product_Category_Preference_Apparel
+323,#324,47,Female,Suburban,82032,Travel,26,4,49,2621,104,21,True,True,False,False,False,False,Product_Category_Preference_Apparel
+519,#520,34,Female,Suburban,20645,Technology,6,2,197,938,560,46,True,False,True,False,False,False,Product_Category_Preference_Books
+916,#917,35,Male,Suburban,122112,Travel,11,7,25,1528,377,23,False,False,True,False,False,False,Product_Category_Preference_Books
+922,#923,64,Male,Rural,81350,Technology,11,5,24,655,489,3,True,False,True,False,False,False,Product_Category_Preference_Books
+5,#6,38,Male,Suburban,25926,Travel,22,8,25,2669,520,28,False,False,True,False,False,False,Product_Category_Preference_Books
+731,#732,30,Male,Suburban,62946,Technology,10,4,115,570,502,21,False,False,True,False,False,False,Product_Category_Preference_Books
+465,#466,29,Female,Rural,132507,Food,21,4,44,3666,13,30,True,False,True,False,False,False,Product_Category_Preference_Books
+97,#98,41,Female,Urban,114733,Fashion,25,6,81,4237,499,42,False,False,False,True,False,False,Product_Category_Preference_Electronics
+266,#267,29,Female,Rural,123864,Technology,20,8,95,3657,144,42,True,False,False,True,False,False,Product_Category_Preference_Electronics
+357,#358,20,Male,Rural,147563,Food,17,5,71,2690,222,38,False,True,False,False,False,False,Product_Category_Preference_Apparel
+868,#869,18,Female,Urban,81440,Sports,13,5,148,803,436,31,False,True,False,False,False,False,Product_Category_Preference_Apparel
+798,#799,50,Male,Rural,26716,Sports,29,4,163,4424,115,1,True,False,False,True,False,False,Product_Category_Preference_Electronics
+380,#381,42,Male,Suburban,50933,Food,13,2,181,148,353,33,False,False,False,True,False,False,Product_Category_Preference_Electronics
+631,#632,61,Male,Rural,94567,Travel,20,8,153,3496,464,43,True,True,False,False,False,False,Product_Category_Preference_Apparel
+381,#382,41,Male,Suburban,25774,Technology,27,8,44,3961,436,19,True,False,True,False,False,False,Product_Category_Preference_Books
+490,#491,33,Male,Suburban,76481,Technology,19,2,19,2302,207,45,True,False,True,False,False,False,Product_Category_Preference_Books
+118,#119,50,Female,Urban,88926,Fashion,12,8,183,3467,106,13,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+900,#901,56,Male,Urban,43377,Sports,11,0,12,854,38,45,True,False,False,True,False,False,Product_Category_Preference_Electronics
+250,#251,35,Female,Urban,146133,Technology,15,8,103,4263,306,7,True,False,True,False,False,False,Product_Category_Preference_Books
+523,#524,43,Female,Urban,50090,Food,11,8,110,4607,257,8,True,True,False,False,False,False,Product_Category_Preference_Apparel
+9,#10,28,Male,Urban,121604,Food,13,8,61,4999,114,36,False,False,False,True,False,False,Product_Category_Preference_Electronics
+196,#197,49,Female,Urban,101906,Fashion,17,7,59,628,579,33,True,False,False,True,False,False,Product_Category_Preference_Electronics
+603,#604,34,Female,Suburban,129869,Travel,16,6,116,396,493,9,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+81,#82,33,Female,Rural,22023,Sports,6,0,114,2184,310,19,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+783,#784,38,Female,Rural,20193,Travel,13,2,121,3026,474,17,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+587,#588,59,Male,Suburban,61814,Travel,26,5,163,1607,219,33,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+797,#798,55,Male,Suburban,46512,Sports,22,8,138,4364,12,15,False,True,False,False,False,False,Product_Category_Preference_Apparel
+239,#240,36,Female,Suburban,29557,Fashion,14,5,131,1127,364,47,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+290,#291,46,Male,Urban,131487,Sports,9,0,115,4076,580,4,True,False,False,True,False,False,Product_Category_Preference_Electronics
+211,#212,50,Female,Urban,49309,Sports,22,1,43,1849,76,42,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+717,#718,47,Female,Urban,29885,Fashion,21,1,46,1152,277,35,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+359,#360,63,Male,Suburban,77326,Fashion,2,8,31,1193,278,7,False,False,False,True,False,False,Product_Category_Preference_Electronics
+449,#450,39,Female,Urban,26530,Food,3,9,118,4405,211,5,True,False,True,False,False,False,Product_Category_Preference_Books
+227,#228,23,Female,Urban,27736,Travel,7,3,110,2969,402,1,False,True,False,False,False,False,Product_Category_Preference_Apparel
+950,#951,57,Male,Urban,26031,Fashion,2,4,94,4171,465,42,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+946,#947,41,Female,Urban,97313,Food,24,1,35,772,123,6,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+796,#797,51,Female,Suburban,113905,Technology,16,2,146,4362,42,35,True,True,False,False,False,False,Product_Category_Preference_Apparel
+501,#502,60,Female,Urban,29752,Food,24,6,60,299,568,35,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+464,#465,22,Male,Rural,149951,Sports,16,1,163,148,591,41,True,False,True,False,False,False,Product_Category_Preference_Books
+362,#363,64,Male,Suburban,50651,Sports,19,3,178,2679,466,32,True,False,True,False,False,False,Product_Category_Preference_Books
+468,#469,43,Female,Urban,110724,Food,6,7,96,486,342,12,True,False,False,True,False,False,Product_Category_Preference_Electronics
+935,#936,54,Female,Rural,90194,Sports,6,0,16,2449,138,37,True,False,False,True,False,False,Product_Category_Preference_Electronics
+428,#429,34,Female,Urban,53243,Fashion,6,9,159,1993,89,44,False,True,False,False,False,False,Product_Category_Preference_Apparel
+7,#8,36,Male,Urban,29496,Technology,26,7,108,2151,558,19,True,True,False,False,False,False,Product_Category_Preference_Apparel
+155,#156,32,Female,Suburban,79792,Food,1,5,36,4176,307,46,True,False,True,False,False,False,Product_Category_Preference_Books
+541,#542,52,Female,Suburban,105751,Technology,22,0,146,3560,56,12,False,False,False,True,False,False,Product_Category_Preference_Electronics
+440,#441,51,Female,Urban,99057,Technology,12,3,32,2818,114,3,False,True,False,False,False,False,Product_Category_Preference_Apparel
+482,#483,36,Male,Suburban,74400,Fashion,21,3,144,1047,442,42,False,False,False,True,False,False,Product_Category_Preference_Electronics
+422,#423,57,Female,Rural,22551,Sports,24,0,19,4832,123,36,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+778,#779,34,Female,Rural,50795,Food,4,2,17,4450,197,7,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+949,#950,48,Female,Suburban,53154,Travel,19,6,160,1500,59,45,False,False,False,True,False,False,Product_Category_Preference_Electronics
+334,#335,45,Female,Rural,65232,Food,22,8,184,3786,266,16,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+576,#577,33,Male,Suburban,30487,Travel,24,9,116,3649,88,41,True,False,True,False,False,False,Product_Category_Preference_Books
+934,#935,23,Male,Suburban,98033,Fashion,18,4,136,3419,566,46,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+567,#568,36,Female,Urban,94658,Food,11,4,23,904,271,22,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+594,#595,46,Female,Rural,83278,Fashion,20,9,51,2852,558,15,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+530,#531,62,Female,Urban,101623,Travel,24,0,97,4798,571,29,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+581,#582,38,Male,Urban,124648,Fashion,5,2,24,2992,573,17,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+707,#708,30,Female,Suburban,146888,Sports,16,9,144,4715,100,25,True,True,False,False,False,False,Product_Category_Preference_Apparel
+448,#449,22,Female,Suburban,57711,Fashion,27,8,45,4069,199,15,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+453,#454,43,Female,Rural,99473,Travel,13,1,70,3107,23,27,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+228,#229,39,Female,Rural,27710,Technology,14,5,98,1602,191,3,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+352,#353,20,Male,Rural,116111,Sports,10,8,72,2264,317,26,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+728,#729,42,Female,Rural,99151,Travel,8,4,20,1264,451,8,True,True,False,False,False,False,Product_Category_Preference_Apparel
+212,#213,18,Female,Rural,35078,Sports,28,6,199,2942,158,35,False,False,True,False,False,False,Product_Category_Preference_Books
+79,#80,57,Male,Urban,123892,Food,29,8,153,2098,270,21,True,False,True,False,False,False,Product_Category_Preference_Books
+148,#149,49,Male,Suburban,95054,Sports,24,6,166,4940,16,44,True,True,False,False,False,False,Product_Category_Preference_Apparel
+302,#303,31,Female,Suburban,46928,Travel,26,1,22,787,192,35,True,True,False,False,False,False,Product_Category_Preference_Apparel
+628,#629,23,Male,Urban,85677,Sports,15,1,166,1949,461,14,True,False,False,True,False,False,Product_Category_Preference_Electronics
+777,#778,47,Male,Rural,107445,Fashion,22,2,11,590,121,20,False,False,False,True,False,False,Product_Category_Preference_Electronics
+506,#507,50,Male,Suburban,112051,Fashion,28,4,71,4983,139,31,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+342,#343,41,Male,Suburban,67945,Travel,16,3,164,4057,299,11,True,False,True,False,False,False,Product_Category_Preference_Books
+485,#486,22,Male,Rural,62870,Travel,19,0,70,307,536,17,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+711,#712,35,Male,Suburban,106710,Technology,1,5,152,2381,417,17,True,False,True,False,False,False,Product_Category_Preference_Books
+133,#134,20,Female,Rural,77775,Travel,4,5,185,3409,84,35,False,False,True,False,False,False,Product_Category_Preference_Books
+703,#704,37,Female,Urban,101768,Travel,14,4,62,4036,67,46,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+311,#312,39,Female,Rural,110536,Sports,3,3,88,1264,585,49,True,False,True,False,False,False,Product_Category_Preference_Books
+722,#723,35,Male,Suburban,49165,Food,13,9,26,4257,41,18,False,False,False,True,False,False,Product_Category_Preference_Electronics
+629,#630,48,Male,Urban,22659,Food,21,8,101,2742,459,25,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+0,#1,56,Male,Suburban,38037,Sports,5,7,18,2546,584,38,True,False,True,False,False,False,Product_Category_Preference_Books
+316,#317,55,Female,Urban,111006,Sports,27,3,107,2124,351,35,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+706,#707,46,Male,Rural,74869,Fashion,12,9,57,3976,417,34,False,True,False,False,False,False,Product_Category_Preference_Apparel
+547,#548,41,Male,Urban,38099,Fashion,4,3,121,3985,490,33,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+872,#873,64,Female,Urban,64363,Sports,18,2,184,4810,265,33,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+532,#533,46,Male,Urban,66037,Food,11,6,119,2096,357,21,False,False,False,True,False,False,Product_Category_Preference_Electronics
+477,#478,22,Male,Rural,82987,Travel,26,7,67,4466,10,23,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+404,#405,59,Female,Suburban,62951,Fashion,5,0,26,2807,299,2,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+172,#173,37,Female,Rural,127332,Sports,16,9,57,3090,564,23,True,False,True,False,False,False,Product_Category_Preference_Books
+125,#126,39,Female,Rural,86077,Sports,10,5,37,3437,442,47,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+394,#395,32,Female,Rural,38489,Food,24,7,132,2163,585,17,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+420,#421,64,Female,Suburban,147282,Fashion,14,5,156,448,44,43,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+552,#553,30,Male,Urban,49009,Travel,22,2,158,3597,2,1,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+903,#904,39,Male,Suburban,58211,Fashion,9,2,132,1338,368,9,False,True,False,False,False,False,Product_Category_Preference_Apparel
+90,#91,46,Female,Rural,57804,Food,10,5,109,464,19,31,False,True,False,False,False,False,Product_Category_Preference_Apparel
+939,#940,23,Male,Suburban,126022,Fashion,22,9,108,2216,317,24,True,False,True,False,False,False,Product_Category_Preference_Books
+181,#182,30,Female,Rural,113808,Technology,24,5,70,4624,133,12,True,True,False,False,False,False,Product_Category_Preference_Apparel
+274,#275,33,Female,Rural,116894,Technology,22,2,106,4521,207,4,False,False,True,False,False,False,Product_Category_Preference_Books
+895,#896,32,Female,Rural,141262,Technology,22,9,167,2124,95,12,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+69,#70,61,Male,Rural,29596,Travel,14,1,91,1434,396,22,False,True,False,False,False,False,Product_Category_Preference_Apparel
+291,#292,35,Male,Rural,42669,Fashion,28,2,114,4912,447,6,False,True,False,False,False,False,Product_Category_Preference_Apparel
+131,#132,64,Male,Suburban,134367,Food,28,9,188,4322,142,48,False,False,True,False,False,False,Product_Category_Preference_Books
+300,#301,21,Male,Urban,142788,Sports,8,6,65,2471,103,31,True,True,False,False,False,False,Product_Category_Preference_Apparel
+424,#425,30,Female,Rural,81001,Travel,29,5,134,2326,330,24,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+326,#327,64,Male,Suburban,118876,Food,23,3,58,1230,375,33,True,True,False,False,False,False,Product_Category_Preference_Apparel
+144,#145,59,Female,Rural,70288,Technology,19,4,80,1316,264,6,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+423,#424,33,Female,Urban,91947,Food,8,1,187,1117,349,29,True,False,False,True,False,False,Product_Category_Preference_Electronics
+580,#581,42,Male,Urban,96229,Sports,2,7,164,1936,476,16,False,True,False,False,False,False,Product_Category_Preference_Apparel
+135,#136,22,Male,Rural,114947,Technology,9,5,63,3543,352,19,False,False,True,False,False,False,Product_Category_Preference_Books
+450,#451,46,Male,Urban,31116,Travel,15,8,64,4321,287,29,False,True,False,False,False,False,Product_Category_Preference_Apparel
+164,#165,19,Male,Suburban,50254,Travel,18,2,170,603,271,3,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+28,#29,42,Male,Rural,130058,Technology,6,2,119,3199,275,14,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+773,#774,18,Male,Urban,37862,Fashion,25,9,194,4473,113,25,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+193,#194,41,Male,Rural,103369,Sports,7,8,79,2061,495,39,True,True,False,False,False,False,Product_Category_Preference_Apparel
+388,#389,25,Male,Urban,34939,Sports,15,1,74,931,591,23,False,False,True,False,False,False,Product_Category_Preference_Books
+852,#853,63,Female,Urban,55634,Fashion,15,6,93,1624,544,20,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+169,#170,45,Female,Urban,34472,Fashion,1,3,136,2476,246,6,False,True,False,False,False,False,Product_Category_Preference_Apparel
+705,#706,45,Female,Urban,109709,Food,3,0,110,1175,285,19,True,False,False,True,False,False,Product_Category_Preference_Electronics
+140,#141,26,Male,Urban,96256,Technology,7,4,188,3688,303,45,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+173,#174,47,Female,Suburban,140312,Food,15,7,12,357,88,33,True,False,True,False,False,False,Product_Category_Preference_Books
+6,#7,56,Male,Urban,124555,Fashion,11,7,152,1113,330,31,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+745,#746,20,Male,Urban,129632,Travel,13,9,131,3995,80,6,True,True,False,False,False,False,Product_Category_Preference_Apparel
+478,#479,53,Female,Suburban,83370,Fashion,3,5,41,222,329,20,False,True,False,False,False,False,Product_Category_Preference_Apparel
+73,#74,31,Male,Suburban,133175,Food,26,7,78,3417,331,9,False,False,False,True,False,False,Product_Category_Preference_Electronics
+910,#911,42,Female,Urban,117938,Fashion,25,8,86,3939,576,22,False,False,True,False,False,False,Product_Category_Preference_Books
+813,#814,22,Male,Suburban,115655,Fashion,29,0,161,1870,512,5,False,False,True,False,False,False,Product_Category_Preference_Books
+238,#239,53,Male,Suburban,112573,Fashion,21,4,59,2305,365,2,True,False,False,True,False,False,Product_Category_Preference_Electronics
+145,#146,30,Male,Urban,104730,Travel,22,5,146,1510,3,8,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+792,#793,35,Male,Urban,105925,Sports,3,4,176,2173,87,42,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+234,#235,33,Male,Rural,100797,Sports,13,3,198,2694,420,35,False,False,False,True,False,False,Product_Category_Preference_Electronics
+220,#221,21,Female,Suburban,62821,Sports,16,9,162,4298,469,48,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+923,#924,25,Female,Suburban,91425,Sports,17,8,150,455,29,23,False,False,True,False,False,False,Product_Category_Preference_Books
+500,#501,50,Female,Rural,28004,Sports,23,6,179,585,337,36,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+132,#133,31,Female,Suburban,30258,Fashion,19,0,99,4275,368,5,True,True,False,False,False,False,Product_Category_Preference_Apparel
+990,#991,60,Male,Rural,56027,Food,24,9,80,3275,455,25,False,True,False,False,False,False,Product_Category_Preference_Apparel
+774,#775,61,Male,Urban,63355,Fashion,28,6,136,3864,456,34,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+185,#186,23,Male,Suburban,149004,Fashion,13,7,133,2875,272,28,False,False,False,True,False,False,Product_Category_Preference_Electronics
+41,#42,56,Male,Suburban,148392,Travel,13,5,82,3303,538,14,False,True,False,False,False,False,Product_Category_Preference_Apparel
+696,#697,54,Male,Suburban,118344,Technology,11,8,60,1552,291,32,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+108,#109,22,Female,Urban,129079,Sports,16,6,162,3249,213,46,False,True,False,False,False,False,Product_Category_Preference_Apparel
+588,#589,56,Male,Suburban,110751,Food,11,1,183,4171,12,26,True,True,False,False,False,False,Product_Category_Preference_Apparel
+56,#57,52,Female,Suburban,109464,Food,25,9,187,2707,230,40,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+405,#406,23,Male,Suburban,111179,Travel,22,4,130,4033,76,36,True,False,True,False,False,False,Product_Category_Preference_Books
+442,#443,42,Female,Urban,26971,Food,29,8,144,3044,568,7,True,False,True,False,False,False,Product_Category_Preference_Books
+757,#758,18,Female,Rural,128392,Travel,18,6,115,412,433,24,False,False,True,False,False,False,Product_Category_Preference_Books
+997,#998,27,Female,Urban,72395,Technology,8,8,130,650,331,34,False,False,True,False,False,False,Product_Category_Preference_Books
+24,#25,50,Female,Urban,41727,Sports,6,4,104,2097,445,37,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+467,#468,43,Male,Rural,40074,Sports,22,6,76,788,365,21,False,False,False,True,False,False,Product_Category_Preference_Electronics
+539,#540,26,Male,Suburban,56116,Food,25,3,130,826,433,10,True,False,True,False,False,False,Product_Category_Preference_Books
+531,#532,28,Female,Suburban,66305,Sports,23,3,177,4411,417,25,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+618,#619,25,Male,Suburban,106661,Technology,3,3,198,1923,570,26,True,False,True,False,False,False,Product_Category_Preference_Books
+694,#695,45,Male,Rural,112493,Food,2,9,132,419,23,40,True,False,True,False,False,False,Product_Category_Preference_Books
+926,#927,36,Female,Suburban,106120,Travel,29,4,61,1140,17,27,True,True,False,False,False,False,Product_Category_Preference_Apparel
+338,#339,23,Female,Suburban,70669,Technology,29,5,193,2840,295,47,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+51,#52,64,Male,Urban,83437,Food,28,5,160,2529,416,2,True,False,True,False,False,False,Product_Category_Preference_Books
+507,#508,57,Male,Urban,147905,Fashion,5,3,164,2411,459,10,True,False,True,False,False,False,Product_Category_Preference_Books
+516,#517,19,Female,Rural,29587,Sports,17,6,22,3975,288,10,False,False,True,False,False,False,Product_Category_Preference_Books
+920,#921,39,Female,Urban,39086,Fashion,11,1,82,3162,492,13,False,False,True,False,False,False,Product_Category_Preference_Books
+781,#782,32,Male,Urban,31093,Sports,8,5,62,1387,566,29,False,False,True,False,False,False,Product_Category_Preference_Books
+264,#265,19,Male,Urban,38681,Travel,22,1,116,218,521,31,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+817,#818,30,Female,Urban,76044,Fashion,9,0,158,897,468,35,True,False,True,False,False,False,Product_Category_Preference_Books
+710,#711,23,Male,Rural,90910,Sports,17,5,20,4752,241,41,False,False,True,False,False,False,Product_Category_Preference_Books
+682,#683,49,Male,Suburban,69416,Food,13,7,109,4827,171,10,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+832,#833,20,Female,Rural,133504,Technology,17,7,83,2046,387,30,True,False,False,True,False,False,Product_Category_Preference_Electronics
+518,#519,40,Female,Rural,115665,Sports,20,3,98,648,64,41,False,False,False,True,False,False,Product_Category_Preference_Electronics
+447,#448,56,Male,Urban,104742,Technology,13,7,106,1174,261,13,True,False,True,False,False,False,Product_Category_Preference_Books
+18,#19,41,Male,Rural,111396,Travel,28,3,22,4853,154,36,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+715,#716,19,Male,Urban,117136,Technology,23,2,32,2261,233,31,False,True,False,False,False,False,Product_Category_Preference_Apparel
+483,#484,49,Male,Rural,45150,Technology,29,7,114,624,217,11,True,True,False,False,False,False,Product_Category_Preference_Apparel
+568,#569,29,Male,Suburban,98112,Sports,15,5,186,2551,417,28,False,False,False,True,False,False,Product_Category_Preference_Electronics
+433,#434,43,Male,Rural,26710,Sports,1,8,191,4261,257,26,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+367,#368,59,Female,Rural,79634,Travel,6,6,121,2473,86,1,True,False,False,True,False,False,Product_Category_Preference_Electronics
+83,#84,35,Male,Urban,79796,Sports,13,6,24,502,104,8,True,False,True,False,False,False,Product_Category_Preference_Books
+61,#62,21,Female,Urban,109822,Travel,24,7,22,3251,105,2,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+638,#639,20,Female,Rural,42010,Food,17,2,99,2439,205,26,True,False,True,False,False,False,Product_Category_Preference_Books
+272,#273,52,Male,Rural,117798,Fashion,19,8,175,3954,345,10,False,False,False,True,False,False,Product_Category_Preference_Electronics
+285,#286,37,Male,Urban,85428,Travel,11,1,180,4005,74,15,True,False,False,True,False,False,Product_Category_Preference_Electronics
+360,#361,41,Male,Rural,110023,Travel,18,3,135,3980,569,12,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+354,#355,42,Female,Rural,32924,Travel,11,2,192,4045,435,45,False,True,False,False,False,False,Product_Category_Preference_Apparel
+456,#457,39,Male,Rural,26629,Sports,20,1,131,2924,296,20,True,False,True,False,False,False,Product_Category_Preference_Books
+278,#279,50,Female,Urban,27927,Fashion,23,2,106,3734,221,43,False,True,False,False,False,False,Product_Category_Preference_Apparel
+12,#13,53,Female,Rural,61321,Fashion,7,9,29,3781,379,33,True,True,False,False,False,False,Product_Category_Preference_Apparel
+182,#183,58,Female,Rural,128381,Food,26,9,168,3559,55,5,False,False,False,True,False,False,Product_Category_Preference_Electronics
+368,#369,19,Female,Urban,120158,Fashion,25,4,155,4090,234,27,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+881,#882,62,Female,Rural,42432,Fashion,19,2,195,3468,204,6,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+615,#616,54,Female,Suburban,30449,Fashion,23,5,109,4471,122,16,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+223,#224,55,Male,Rural,37069,Fashion,12,9,145,778,13,31,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+572,#573,31,Female,Rural,107969,Travel,20,7,157,4132,230,4,False,False,True,False,False,False,Product_Category_Preference_Books
+970,#971,62,Female,Suburban,139006,Technology,26,8,78,553,293,44,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+653,#654,55,Female,Suburban,35282,Technology,6,6,149,4371,523,25,True,False,False,True,False,False,Product_Category_Preference_Electronics
+545,#546,56,Male,Rural,45556,Fashion,1,0,126,382,449,26,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+582,#583,53,Male,Rural,58547,Fashion,17,6,28,2596,539,20,False,False,False,True,False,False,Product_Category_Preference_Electronics
+633,#634,44,Female,Rural,146498,Sports,7,2,89,3705,2,28,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+176,#177,42,Male,Suburban,28329,Technology,17,6,199,1652,20,5,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+665,#666,53,Male,Suburban,31002,Sports,8,3,75,640,562,45,True,False,False,True,False,False,Product_Category_Preference_Electronics
+673,#674,32,Male,Rural,24493,Food,29,5,93,3342,569,5,True,False,False,True,False,False,Product_Category_Preference_Electronics
+585,#586,56,Male,Rural,41447,Sports,4,9,35,3718,61,11,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+873,#874,39,Female,Rural,131175,Travel,13,1,22,428,9,34,False,False,False,True,False,False,Product_Category_Preference_Electronics
+393,#394,40,Male,Urban,26823,Travel,6,4,25,186,244,49,False,True,False,False,False,False,Product_Category_Preference_Apparel
+163,#164,45,Male,Suburban,120037,Fashion,29,6,126,2422,199,42,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+248,#249,57,Male,Suburban,52591,Fashion,6,9,94,2825,320,42,True,False,True,False,False,False,Product_Category_Preference_Books
+634,#635,27,Female,Suburban,66738,Sports,21,0,80,3899,364,7,True,False,False,True,False,False,Product_Category_Preference_Electronics
+885,#886,20,Male,Rural,119291,Travel,20,5,149,1529,592,13,False,False,False,True,False,False,Product_Category_Preference_Electronics
+669,#670,35,Female,Rural,136219,Food,8,1,90,605,59,9,False,False,True,False,False,False,Product_Category_Preference_Books
+375,#376,56,Female,Rural,94905,Fashion,13,9,31,3506,480,5,False,False,False,True,False,False,Product_Category_Preference_Electronics
+412,#413,61,Male,Urban,68563,Fashion,28,2,117,2697,156,3,True,True,False,False,False,False,Product_Category_Preference_Apparel
+74,#75,48,Male,Urban,86549,Food,7,6,68,4120,253,26,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+113,#114,24,Male,Urban,83646,Sports,8,5,38,3229,73,18,True,True,False,False,False,False,Product_Category_Preference_Apparel
+598,#599,64,Male,Suburban,122932,Food,26,7,85,1422,473,29,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+961,#962,32,Female,Urban,68438,Sports,28,3,115,3008,69,45,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+390,#391,33,Male,Urban,134586,Sports,4,7,138,4877,107,10,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+104,#105,25,Male,Suburban,26643,Travel,13,9,164,2838,4,28,True,False,True,False,False,False,Product_Category_Preference_Books
+114,#115,26,Male,Urban,80603,Food,21,7,135,3745,516,16,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+417,#418,62,Male,Urban,123850,Fashion,6,2,25,323,356,28,True,False,True,False,False,False,Product_Category_Preference_Books
+525,#526,43,Female,Urban,72142,Technology,18,1,180,4354,239,6,True,False,True,False,False,False,Product_Category_Preference_Books
+457,#458,46,Female,Suburban,129472,Technology,11,0,106,4101,6,10,True,False,False,True,False,False,Product_Category_Preference_Electronics
+409,#410,50,Male,Rural,38658,Food,3,9,181,1682,211,15,False,True,False,False,False,False,Product_Category_Preference_Apparel
+92,#93,62,Male,Rural,79664,Food,17,8,39,679,223,41,True,True,False,False,False,False,Product_Category_Preference_Apparel
+930,#931,23,Male,Suburban,30058,Travel,23,6,119,2653,67,25,False,True,False,False,False,False,Product_Category_Preference_Apparel
+89,#90,58,Female,Rural,53848,Fashion,5,7,111,118,253,26,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+336,#337,46,Male,Suburban,87169,Fashion,12,3,51,1136,496,23,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+988,#989,53,Male,Rural,81049,Food,14,8,190,4264,131,25,True,False,True,False,False,False,Product_Category_Preference_Books
+921,#922,51,Male,Suburban,34376,Technology,7,3,41,3171,393,18,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+933,#934,62,Female,Rural,94637,Sports,22,5,115,4426,237,9,False,False,False,True,False,False,Product_Category_Preference_Electronics
+605,#606,24,Female,Rural,68781,Technology,11,8,64,2325,486,36,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+593,#594,40,Male,Urban,107960,Technology,22,0,140,4165,181,34,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+611,#612,44,Male,Urban,130434,Travel,24,4,127,275,547,16,False,False,False,True,False,False,Product_Category_Preference_Electronics
+94,#95,42,Female,Urban,129126,Sports,23,0,153,4250,236,25,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+11,#12,41,Male,Rural,108199,Food,22,2,14,3119,166,15,False,False,False,True,False,False,Product_Category_Preference_Electronics
+396,#397,51,Female,Rural,59961,Fashion,26,6,63,262,538,44,True,False,True,False,False,False,Product_Category_Preference_Books
+533,#534,53,Female,Suburban,29346,Sports,21,6,129,3773,383,46,False,False,True,False,False,False,Product_Category_Preference_Books
+43,#44,21,Male,Rural,104899,Sports,20,1,139,935,23,10,True,False,False,True,False,False,Product_Category_Preference_Electronics
+42,#43,35,Male,Urban,137235,Technology,15,8,61,532,426,46,True,False,False,True,False,False,Product_Category_Preference_Electronics
+329,#330,36,Female,Suburban,43481,Sports,26,4,116,326,335,13,True,True,False,False,False,False,Product_Category_Preference_Apparel
+167,#168,23,Male,Suburban,77418,Fashion,13,2,174,3725,230,35,True,False,True,False,False,False,Product_Category_Preference_Books
+497,#498,29,Male,Rural,28438,Technology,20,6,106,2923,74,4,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+876,#877,45,Male,Rural,75284,Food,21,2,77,1064,8,9,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+597,#598,35,Male,Rural,142046,Travel,8,7,170,1703,80,42,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+756,#757,63,Female,Urban,69678,Travel,16,8,107,2173,564,32,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+100,#101,25,Male,Rural,68868,Sports,29,5,51,552,276,12,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+426,#427,47,Female,Urban,142775,Travel,8,5,149,4224,323,4,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+178,#179,50,Female,Urban,66850,Sports,29,0,125,857,558,42,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+444,#445,62,Male,Suburban,105445,Travel,29,9,53,695,334,9,True,False,False,True,False,False,Product_Category_Preference_Electronics
+416,#417,23,Female,Urban,99025,Fashion,16,2,87,3736,492,31,False,False,False,True,False,False,Product_Category_Preference_Electronics
+870,#871,52,Female,Urban,81035,Travel,29,7,173,2470,496,9,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+882,#883,43,Female,Urban,146252,Fashion,20,1,32,1416,518,11,True,False,False,True,False,False,Product_Category_Preference_Electronics
+680,#681,29,Female,Suburban,63472,Fashion,4,2,49,1152,52,22,False,False,False,True,False,False,Product_Category_Preference_Electronics
+177,#178,56,Female,Urban,54865,Food,21,1,108,4618,33,41,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+395,#396,45,Male,Urban,138555,Sports,20,0,70,921,468,49,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+911,#912,21,Female,Suburban,54542,Fashion,8,6,11,1560,345,38,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+793,#794,47,Male,Rural,60197,Fashion,13,2,29,801,82,34,True,False,True,False,False,False,Product_Category_Preference_Books
+960,#961,21,Female,Urban,54624,Fashion,6,0,62,440,581,44,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+684,#685,25,Female,Rural,26816,Travel,5,3,25,4032,300,42,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+383,#384,24,Female,Suburban,30983,Food,7,2,134,3146,225,29,True,False,True,False,False,False,Product_Category_Preference_Books
+956,#957,19,Male,Suburban,48669,Food,17,0,77,3704,254,21,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+751,#752,36,Female,Suburban,112491,Food,19,7,21,1577,74,16,False,True,False,False,False,False,Product_Category_Preference_Apparel
+257,#258,48,Female,Suburban,61800,Travel,25,6,60,2164,209,42,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+538,#539,54,Female,Rural,89615,Sports,27,2,105,2987,328,38,False,True,False,False,False,False,Product_Category_Preference_Apparel
+335,#336,47,Male,Rural,106544,Travel,10,5,85,3722,522,25,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+15,#16,20,Male,Urban,85095,Sports,22,9,120,3110,276,45,True,True,False,False,False,False,Product_Category_Preference_Apparel
+324,#325,50,Male,Rural,95415,Fashion,17,2,79,2681,204,35,True,False,False,True,False,False,Product_Category_Preference_Electronics
+758,#759,62,Male,Suburban,131250,Technology,16,8,94,910,412,16,True,False,True,False,False,False,Product_Category_Preference_Books
+222,#223,34,Male,Suburban,33493,Technology,19,7,23,2003,9,20,False,False,True,False,False,False,Product_Category_Preference_Books
+179,#180,18,Male,Rural,74220,Sports,29,2,23,2910,73,13,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+983,#984,43,Female,Urban,56268,Fashion,14,8,87,4892,353,19,False,False,True,False,False,False,Product_Category_Preference_Books
+22,#23,19,Female,Rural,133767,Sports,3,2,83,325,68,33,False,True,False,False,False,False,Product_Category_Preference_Apparel
+356,#357,48,Male,Urban,113269,Food,16,5,108,3883,218,29,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+666,#667,52,Male,Urban,33947,Technology,12,0,96,369,23,26,True,False,True,False,False,False,Product_Category_Preference_Books
+861,#862,39,Female,Suburban,119821,Travel,16,9,39,1309,592,10,True,False,False,True,False,False,Product_Category_Preference_Electronics
+340,#341,58,Female,Suburban,129153,Travel,11,4,137,1648,549,43,False,False,True,False,False,False,Product_Category_Preference_Books
+431,#432,43,Male,Suburban,77828,Fashion,8,0,93,1225,539,30,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+551,#552,29,Female,Suburban,33230,Food,12,0,94,1252,434,35,True,False,True,False,False,False,Product_Category_Preference_Books
+833,#834,49,Female,Rural,123001,Technology,22,3,119,1195,87,18,True,False,False,True,False,False,Product_Category_Preference_Electronics
+203,#204,54,Male,Suburban,149940,Fashion,15,2,114,3506,583,43,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+630,#631,36,Male,Rural,106516,Sports,14,9,143,1700,189,8,True,True,False,False,False,False,Product_Category_Preference_Apparel
+93,#94,18,Male,Urban,47766,Travel,12,1,58,645,3,2,True,True,False,False,False,False,Product_Category_Preference_Apparel
+558,#559,34,Male,Rural,61855,Travel,14,6,118,413,444,12,False,False,False,True,False,False,Product_Category_Preference_Electronics
+68,#69,43,Male,Suburban,120483,Sports,4,3,108,687,550,8,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+622,#623,34,Male,Suburban,78810,Food,10,6,58,646,428,3,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+284,#285,57,Male,Rural,124646,Food,26,0,36,1392,283,2,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+844,#845,39,Male,Urban,108296,Fashion,27,4,96,1401,110,12,True,True,False,False,False,False,Product_Category_Preference_Apparel
+434,#435,40,Female,Rural,41384,Travel,22,5,67,4142,189,19,True,False,False,True,False,False,Product_Category_Preference_Electronics
+153,#154,56,Male,Rural,95564,Fashion,15,9,113,4432,63,23,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+75,#76,32,Male,Rural,134914,Fashion,16,2,197,3255,285,2,True,False,True,False,False,False,Product_Category_Preference_Books
+730,#731,44,Female,Urban,64900,Fashion,15,0,81,2458,61,43,False,False,True,False,False,False,Product_Category_Preference_Books
+446,#447,33,Male,Urban,100257,Travel,3,1,35,2850,339,42,True,True,False,False,False,False,Product_Category_Preference_Apparel
+188,#189,26,Female,Urban,110106,Sports,17,1,160,2343,317,18,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+271,#272,58,Male,Rural,50682,Fashion,3,6,166,2703,346,44,False,True,False,False,False,False,Product_Category_Preference_Apparel
+236,#237,20,Male,Suburban,94603,Food,3,8,44,2536,356,35,True,True,False,False,False,False,Product_Category_Preference_Apparel
+487,#488,21,Female,Suburban,72756,Fashion,4,3,189,2894,165,23,True,False,False,True,False,False,Product_Category_Preference_Electronics
+117,#118,51,Female,Suburban,130384,Food,6,0,90,3616,410,8,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+943,#944,28,Male,Rural,145381,Technology,3,8,141,710,258,40,False,False,True,False,False,False,Product_Category_Preference_Books
+512,#513,30,Female,Urban,35036,Travel,12,2,139,3948,568,23,True,False,False,True,False,False,Product_Category_Preference_Electronics
+825,#826,28,Male,Urban,37709,Fashion,13,8,27,4069,490,37,False,True,False,False,False,False,Product_Category_Preference_Apparel
+591,#592,22,Female,Suburban,141347,Fashion,8,3,91,2100,160,41,True,True,False,False,False,False,Product_Category_Preference_Apparel
+126,#127,44,Female,Suburban,41817,Food,19,2,140,361,540,23,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+116,#117,29,Female,Urban,129458,Travel,5,0,192,2967,77,48,False,False,True,False,False,False,Product_Category_Preference_Books
+473,#474,47,Female,Rural,144661,Sports,4,7,178,3517,274,34,False,True,False,False,False,False,Product_Category_Preference_Apparel
+693,#694,25,Female,Urban,118234,Food,22,6,189,4257,184,4,True,False,True,False,False,False,Product_Category_Preference_Books
+57,#58,31,Male,Suburban,35379,Technology,21,9,29,1174,96,32,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+863,#864,47,Male,Rural,41386,Technology,2,7,62,4937,320,9,True,False,True,False,False,False,Product_Category_Preference_Books
+912,#913,27,Male,Rural,30651,Travel,8,6,136,4085,269,19,False,True,False,False,False,False,Product_Category_Preference_Apparel
+369,#370,43,Female,Rural,30800,Travel,15,5,131,4945,313,47,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+268,#269,54,Female,Urban,67299,Sports,27,9,31,4509,386,6,True,True,False,False,False,False,Product_Category_Preference_Apparel
+46,#47,26,Female,Suburban,39033,Technology,4,4,32,997,144,37,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+349,#350,49,Male,Urban,141673,Technology,27,3,137,622,92,32,True,False,True,False,False,False,Product_Category_Preference_Books
+195,#196,49,Male,Urban,90553,Travel,1,1,24,879,338,18,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+999,#1000,19,Male,Rural,74312,Sports,12,7,175,827,497,38,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+834,#835,20,Male,Urban,116038,Fashion,4,0,189,1882,307,36,True,False,False,True,False,False,Product_Category_Preference_Electronics
+736,#737,18,Female,Urban,27368,Fashion,13,5,23,4226,144,19,True,True,False,False,False,False,Product_Category_Preference_Apparel
+263,#264,43,Male,Rural,60785,Technology,13,8,18,2122,279,43,True,True,False,False,False,False,Product_Category_Preference_Apparel
+443,#444,57,Female,Suburban,49139,Travel,27,1,88,4476,359,49,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+675,#676,18,Male,Suburban,70085,Fashion,28,3,196,3820,311,22,False,False,False,True,False,False,Product_Category_Preference_Electronics
+304,#305,37,Female,Urban,77714,Food,5,7,27,1602,380,15,True,False,False,True,False,False,Product_Category_Preference_Electronics
+341,#342,54,Male,Urban,89184,Fashion,22,5,29,1243,67,38,False,True,False,False,False,False,Product_Category_Preference_Apparel
+966,#967,32,Male,Suburban,94964,Travel,19,1,110,3557,89,31,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+149,#150,21,Female,Suburban,131562,Sports,8,8,65,651,334,47,True,True,False,False,False,False,Product_Category_Preference_Apparel
+124,#125,57,Male,Suburban,82539,Technology,11,5,135,3975,77,13,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+786,#787,28,Female,Rural,137082,Technology,6,7,115,1398,200,26,True,False,True,False,False,False,Product_Category_Preference_Books
+50,#51,45,Male,Urban,46832,Food,12,3,94,346,85,26,False,True,False,False,False,False,Product_Category_Preference_Apparel
+353,#354,35,Female,Suburban,98258,Fashion,12,6,194,2029,168,23,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+927,#928,59,Male,Urban,134889,Sports,21,9,86,2786,56,44,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+142,#143,32,Female,Urban,119134,Travel,15,2,121,4214,224,10,True,True,False,False,False,False,Product_Category_Preference_Apparel
+470,#471,56,Male,Urban,59901,Travel,24,9,43,3560,73,2,False,False,True,False,False,False,Product_Category_Preference_Books
+399,#400,40,Male,Suburban,120417,Travel,12,6,89,2032,309,44,False,True,False,False,False,False,Product_Category_Preference_Apparel
+625,#626,62,Male,Suburban,35223,Travel,23,8,127,4634,322,43,True,False,False,True,False,False,Product_Category_Preference_Electronics
+320,#321,44,Male,Suburban,53365,Travel,28,9,155,165,431,9,True,False,False,True,False,False,Product_Category_Preference_Electronics
+19,#20,61,Male,Suburban,69666,Technology,15,7,13,4102,201,33,False,False,True,False,False,False,Product_Category_Preference_Books
+809,#810,27,Male,Suburban,95868,Travel,27,0,143,4328,203,7,True,False,True,False,False,False,Product_Category_Preference_Books
+790,#791,55,Male,Rural,52327,Travel,3,3,158,2358,383,12,False,False,True,False,False,False,Product_Category_Preference_Books
+808,#809,34,Female,Urban,131032,Sports,3,4,131,3112,21,21,True,True,False,False,False,False,Product_Category_Preference_Apparel
+407,#408,60,Male,Urban,70729,Travel,29,6,32,1022,149,7,False,False,True,False,False,False,Product_Category_Preference_Books
+537,#538,27,Male,Rural,127481,Sports,9,9,139,3391,48,47,True,False,False,True,False,False,Product_Category_Preference_Electronics
+620,#621,18,Male,Urban,42746,Fashion,20,3,71,3172,504,24,True,False,False,True,False,False,Product_Category_Preference_Electronics
+38,#39,24,Female,Suburban,51656,Sports,18,6,21,4756,345,31,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+175,#176,45,Male,Rural,115804,Food,16,0,184,4769,66,24,True,False,False,True,False,False,Product_Category_Preference_Electronics
+245,#246,24,Male,Suburban,93997,Food,2,3,195,3330,268,36,False,False,True,False,False,False,Product_Category_Preference_Books
+828,#829,21,Male,Urban,37543,Sports,17,8,105,777,89,3,False,False,True,False,False,False,Product_Category_Preference_Books
+667,#668,36,Female,Urban,99222,Fashion,24,0,88,3560,566,36,False,False,False,True,False,False,Product_Category_Preference_Electronics
+754,#755,31,Female,Rural,91853,Sports,25,5,179,4592,589,13,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+858,#859,26,Male,Urban,90028,Fashion,28,2,97,997,184,11,False,True,False,False,False,False,Product_Category_Preference_Apparel
+154,#155,62,Male,Rural,97984,Sports,1,3,16,1097,561,19,False,False,True,False,False,False,Product_Category_Preference_Books
+287,#288,42,Female,Suburban,97465,Fashion,11,9,41,3309,497,29,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+602,#603,61,Female,Urban,70100,Technology,23,6,140,1226,17,36,True,False,True,False,False,False,Product_Category_Preference_Books
+569,#570,26,Female,Urban,78067,Fashion,12,2,166,4731,139,39,True,True,False,False,False,False,Product_Category_Preference_Apparel
+743,#744,22,Female,Suburban,69879,Food,21,9,178,1453,417,10,False,True,False,False,False,False,Product_Category_Preference_Apparel
+17,#18,19,Male,Suburban,75147,Technology,4,9,102,1432,354,16,False,True,False,False,False,False,Product_Category_Preference_Apparel
+127,#128,52,Male,Suburban,57861,Travel,14,7,84,1948,245,29,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+322,#323,38,Male,Urban,22336,Fashion,29,3,16,4190,582,15,True,True,False,False,False,False,Product_Category_Preference_Apparel
+255,#256,42,Male,Suburban,69733,Technology,28,8,157,1481,14,37,True,True,False,False,False,False,Product_Category_Preference_Apparel
+657,#658,49,Male,Suburban,44264,Sports,15,0,87,2642,126,21,True,False,True,False,False,False,Product_Category_Preference_Books
+964,#965,55,Male,Urban,51705,Technology,23,1,149,2133,585,26,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+190,#191,50,Female,Rural,104530,Technology,7,5,59,1787,102,27,False,False,True,False,False,False,Product_Category_Preference_Books
+115,#116,25,Male,Urban,48731,Food,2,4,162,2626,76,15,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+616,#617,55,Female,Suburban,70290,Fashion,24,5,153,2645,81,29,True,True,False,False,False,False,Product_Category_Preference_Apparel
+606,#607,63,Male,Urban,75267,Fashion,7,9,163,4454,406,48,True,True,False,False,False,False,Product_Category_Preference_Apparel
+180,#181,44,Female,Urban,132234,Technology,7,3,121,1204,343,47,False,True,False,False,False,False,Product_Category_Preference_Apparel
+301,#302,50,Male,Suburban,117239,Fashion,9,5,122,1291,215,13,False,False,False,True,False,False,Product_Category_Preference_Electronics
+759,#760,30,Female,Suburban,46649,Fashion,23,4,130,2335,467,11,False,True,False,False,False,False,Product_Category_Preference_Apparel
+712,#713,22,Female,Suburban,43567,Fashion,23,7,140,1155,176,47,False,False,True,False,False,False,Product_Category_Preference_Books
+723,#724,49,Male,Urban,78929,Food,25,4,163,4710,122,26,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+685,#686,55,Female,Suburban,97175,Sports,26,1,92,2229,232,42,False,True,False,False,False,False,Product_Category_Preference_Apparel
+979,#980,37,Female,Urban,37514,Fashion,9,7,115,1414,420,10,True,True,False,False,False,False,Product_Category_Preference_Apparel
+517,#518,52,Male,Urban,130053,Travel,10,7,24,3033,226,29,False,True,False,False,False,False,Product_Category_Preference_Apparel
+984,#985,31,Female,Urban,110486,Food,19,5,84,2534,157,43,False,True,False,False,False,False,Product_Category_Preference_Apparel
+45,#46,31,Female,Urban,128777,Sports,3,9,69,2362,525,31,True,False,False,True,False,False,Product_Category_Preference_Electronics
+909,#910,37,Female,Urban,149508,Travel,25,4,91,1457,588,44,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+157,#158,46,Female,Suburban,54051,Technology,3,1,181,4037,289,13,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+851,#852,43,Female,Urban,79156,Sports,26,9,170,1517,344,12,False,False,False,True,False,False,Product_Category_Preference_Electronics
+171,#172,61,Female,Urban,23471,Sports,29,2,142,4478,157,44,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+16,#17,39,Female,Rural,42656,Food,24,8,11,672,178,26,False,False,True,False,False,False,Product_Category_Preference_Books
+511,#512,46,Male,Suburban,52994,Sports,21,4,195,704,205,10,True,False,False,True,False,False,Product_Category_Preference_Electronics
+48,#49,19,Male,Rural,30805,Technology,1,3,49,4667,589,27,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+971,#972,61,Female,Rural,125368,Fashion,17,5,191,1804,207,8,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+940,#941,23,Male,Rural,66619,Sports,8,1,152,492,598,44,True,True,False,False,False,False,Product_Category_Preference_Apparel
+515,#516,63,Male,Rural,69416,Travel,22,5,123,4697,442,20,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+952,#953,53,Female,Suburban,91975,Food,19,0,160,4734,373,8,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+480,#481,48,Male,Urban,130454,Technology,16,3,91,3827,543,30,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+283,#284,55,Female,Urban,127439,Fashion,11,6,91,4852,418,17,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+718,#719,62,Male,Urban,79659,Travel,24,4,18,4669,229,29,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+877,#878,40,Male,Urban,127628,Technology,16,3,51,4324,208,7,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+225,#226,22,Male,Suburban,27531,Technology,22,4,63,2575,209,38,True,True,False,False,False,False,Product_Category_Preference_Apparel
+26,#27,39,Female,Urban,115081,Fashion,25,9,17,4624,359,27,True,False,False,True,False,False,Product_Category_Preference_Electronics
+954,#955,48,Female,Urban,98928,Technology,28,2,153,970,125,11,False,False,True,False,False,False,Product_Category_Preference_Books
+437,#438,18,Female,Suburban,107983,Fashion,16,5,54,546,271,27,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+951,#952,54,Female,Rural,113533,Fashion,8,2,177,716,260,4,False,False,False,True,False,False,Product_Category_Preference_Electronics
+364,#365,40,Female,Suburban,68777,Travel,23,1,107,2885,30,17,True,True,False,False,False,False,Product_Category_Preference_Apparel
+229,#230,28,Male,Urban,87155,Technology,29,7,65,1889,51,37,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+37,#38,54,Female,Urban,96865,Sports,21,3,150,3857,568,31,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+965,#966,19,Female,Urban,58244,Sports,5,8,99,1660,262,33,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+374,#375,60,Female,Rural,32819,Food,1,8,193,1975,180,36,True,False,False,True,False,False,Product_Category_Preference_Electronics
+469,#470,38,Female,Rural,87843,Food,14,4,166,1069,221,11,True,True,False,False,False,False,Product_Category_Preference_Apparel
+967,#968,28,Female,Urban,57437,Sports,20,2,106,1756,208,48,True,False,False,True,False,False,Product_Category_Preference_Electronics
+850,#851,29,Female,Urban,53623,Fashion,27,1,184,4920,11,39,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+704,#705,30,Male,Rural,126108,Food,24,6,116,1215,467,16,False,False,False,True,False,False,Product_Category_Preference_Electronics
+841,#842,35,Female,Rural,25482,Technology,26,5,66,1775,173,7,True,False,True,False,False,False,Product_Category_Preference_Books
+194,#195,32,Female,Rural,45122,Fashion,21,6,36,822,361,49,False,True,False,False,False,False,Product_Category_Preference_Apparel
+854,#855,31,Female,Urban,134598,Sports,13,1,188,350,166,48,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+864,#865,60,Female,Rural,103276,Sports,22,8,147,2278,580,36,False,False,True,False,False,False,Product_Category_Preference_Books
+503,#504,29,Female,Rural,128896,Food,14,8,50,2082,533,8,True,True,False,False,False,False,Product_Category_Preference_Apparel
+969,#970,43,Male,Suburban,94878,Sports,22,2,21,1149,266,6,False,True,False,False,False,False,Product_Category_Preference_Apparel
+830,#831,21,Male,Rural,114611,Travel,20,7,51,3387,350,23,False,False,False,True,False,False,Product_Category_Preference_Electronics
+579,#580,29,Male,Rural,87494,Technology,13,3,88,1454,382,49,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+968,#969,25,Female,Suburban,97872,Food,4,6,18,3075,213,47,True,False,False,True,False,False,Product_Category_Preference_Electronics
+162,#163,39,Female,Urban,143278,Sports,1,6,51,2656,463,4,False,True,False,False,False,False,Product_Category_Preference_Apparel
+908,#909,30,Male,Rural,36977,Food,14,0,165,4701,144,1,False,False,False,True,False,False,Product_Category_Preference_Electronics
+152,#153,40,Male,Rural,41621,Technology,9,4,140,4834,177,46,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+801,#802,47,Male,Suburban,127225,Travel,23,6,198,4986,528,25,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+993,#994,23,Male,Suburban,120127,Sports,1,3,110,2069,232,6,False,True,False,False,False,False,Product_Category_Preference_Apparel
+755,#756,26,Male,Rural,84046,Technology,3,9,150,1638,387,29,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+111,#112,58,Male,Urban,135281,Fashion,17,0,155,1268,205,18,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+226,#227,51,Male,Suburban,57051,Travel,9,9,139,1707,550,47,True,False,True,False,False,False,Product_Category_Preference_Books
+688,#689,45,Male,Rural,66733,Travel,18,1,143,3402,28,49,False,False,False,True,False,False,Product_Category_Preference_Electronics
+103,#104,34,Female,Urban,115286,Sports,23,6,16,1567,110,41,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+421,#422,52,Male,Rural,114986,Travel,27,1,11,4377,573,7,False,False,False,True,False,False,Product_Category_Preference_Electronics
+419,#420,47,Male,Urban,26852,Travel,24,0,105,2028,580,30,True,False,True,False,False,False,Product_Category_Preference_Books
+750,#751,27,Male,Suburban,119751,Travel,6,1,10,1890,472,49,False,False,True,False,False,False,Product_Category_Preference_Books
+586,#587,62,Male,Suburban,56598,Travel,22,9,163,1659,543,34,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+780,#781,40,Female,Rural,28770,Food,7,2,133,641,39,37,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+672,#673,31,Male,Urban,76307,Food,8,3,139,3245,183,38,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+119,#120,40,Female,Urban,25997,Food,18,9,161,2294,551,43,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+53,#54,61,Female,Urban,33944,Food,24,0,188,3410,456,13,False,False,True,False,False,False,Product_Category_Preference_Books
+151,#152,54,Female,Rural,53787,Sports,29,9,132,1276,59,7,True,False,False,True,False,False,Product_Category_Preference_Electronics
+403,#404,39,Male,Suburban,40354,Travel,1,0,180,2890,13,29,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+945,#946,48,Male,Suburban,82068,Travel,11,5,117,4098,178,47,True,True,False,False,False,False,Product_Category_Preference_Apparel
+207,#208,45,Male,Urban,128899,Technology,26,1,169,2047,349,17,True,True,False,False,False,False,Product_Category_Preference_Apparel
+658,#659,62,Male,Suburban,79675,Sports,5,8,135,2103,494,11,False,False,True,False,False,False,Product_Category_Preference_Books
+843,#844,59,Female,Urban,112541,Travel,18,6,135,4081,472,31,True,False,False,True,False,False,Product_Category_Preference_Electronics
+762,#763,57,Male,Suburban,102325,Travel,27,2,28,2132,581,35,True,True,False,False,False,False,Product_Category_Preference_Apparel
+8,#9,40,Male,Rural,76447,Travel,25,6,130,4085,325,3,True,False,True,False,False,False,Product_Category_Preference_Books
+807,#808,27,Male,Rural,44000,Food,10,0,199,2008,457,24,True,True,False,False,False,False,Product_Category_Preference_Apparel
+36,#37,20,Female,Rural,45498,Food,28,6,129,350,128,19,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+452,#453,29,Female,Urban,20282,Sports,29,8,78,3680,482,27,False,False,False,True,False,False,Product_Category_Preference_Electronics
+651,#652,42,Female,Suburban,73330,Sports,20,8,39,4866,462,19,False,False,False,True,False,False,Product_Category_Preference_Electronics
+253,#254,28,Female,Rural,27896,Travel,4,1,78,4373,355,19,True,False,True,False,False,False,Product_Category_Preference_Books
+303,#304,38,Female,Suburban,38322,Sports,26,9,193,409,194,16,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+746,#747,40,Female,Rural,131623,Food,16,3,154,782,31,17,True,False,False,True,False,False,Product_Category_Preference_Electronics
+571,#572,45,Male,Rural,149295,Sports,22,3,91,1335,148,4,False,False,False,True,False,False,Product_Category_Preference_Electronics
+623,#624,24,Female,Rural,138362,Fashion,17,9,34,2183,427,10,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+732,#733,50,Male,Urban,27851,Sports,15,1,134,1516,147,24,False,True,False,False,False,False,Product_Category_Preference_Apparel
+891,#892,62,Male,Suburban,143053,Fashion,1,6,66,1113,25,28,True,False,False,True,False,False,Product_Category_Preference_Electronics
+262,#263,33,Male,Suburban,22643,Sports,13,6,75,4698,147,43,True,True,False,False,False,False,Product_Category_Preference_Apparel
+610,#611,26,Female,Suburban,118696,Travel,15,4,126,2308,549,10,True,True,False,False,False,False,Product_Category_Preference_Apparel
+297,#298,58,Female,Rural,48228,Technology,16,8,96,251,384,24,False,False,True,False,False,False,Product_Category_Preference_Books
+414,#415,56,Female,Suburban,108664,Food,14,7,171,4666,376,16,False,False,True,False,False,False,Product_Category_Preference_Books
+150,#151,47,Female,Rural,36184,Fashion,11,1,44,3494,464,40,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+788,#789,55,Male,Rural,82824,Travel,28,9,191,4067,503,19,False,False,False,True,False,False,Product_Category_Preference_Electronics
+640,#641,30,Female,Rural,128400,Travel,29,7,170,4376,472,16,False,False,True,False,False,False,Product_Category_Preference_Books
+889,#890,60,Male,Suburban,133816,Food,23,2,145,3997,136,20,False,True,False,False,False,False,Product_Category_Preference_Apparel
+550,#551,54,Female,Rural,91986,Technology,8,2,195,3070,413,31,False,True,False,False,False,False,Product_Category_Preference_Apparel
+886,#887,64,Male,Urban,23321,Sports,10,6,33,455,339,12,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+488,#489,33,Female,Suburban,135357,Sports,29,1,15,248,91,48,True,False,True,False,False,False,Product_Category_Preference_Books
+147,#148,56,Male,Suburban,47386,Fashion,28,0,138,4472,596,25,False,True,False,False,False,False,Product_Category_Preference_Apparel
+146,#147,49,Male,Suburban,45051,Sports,15,9,118,3597,268,36,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+720,#721,50,Female,Urban,86314,Fashion,9,9,140,3969,213,4,True,True,False,False,False,False,Product_Category_Preference_Apparel
+931,#932,43,Male,Urban,144876,Travel,24,3,187,1879,197,24,True,True,False,False,False,False,Product_Category_Preference_Apparel
+739,#740,45,Male,Rural,66403,Sports,8,6,47,2499,396,12,False,False,True,False,False,False,Product_Category_Preference_Books
+659,#660,64,Male,Urban,25075,Food,20,9,107,1637,47,39,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+348,#349,38,Female,Rural,88673,Travel,13,5,33,616,381,49,False,False,False,True,False,False,Product_Category_Preference_Electronics
+463,#464,63,Female,Urban,53380,Technology,28,8,166,2232,47,31,False,True,False,False,False,False,Product_Category_Preference_Apparel
+325,#326,45,Male,Rural,117852,Fashion,16,3,77,1490,53,42,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+186,#187,25,Female,Rural,55525,Sports,5,3,33,2432,246,28,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+123,#124,61,Female,Suburban,62092,Food,17,0,124,4116,77,22,False,False,True,False,False,False,Product_Category_Preference_Books
+853,#854,51,Male,Urban,64602,Travel,27,1,44,3866,569,37,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+608,#609,57,Male,Suburban,43952,Technology,13,2,61,2196,555,31,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+143,#144,43,Male,Rural,21651,Travel,22,5,68,1507,43,2,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+958,#959,45,Female,Rural,137154,Sports,19,7,89,2839,471,43,True,False,False,True,False,False,Product_Category_Preference_Electronics
+197,#198,41,Male,Suburban,114788,Food,17,6,45,4993,10,25,False,False,True,False,False,False,Product_Category_Preference_Books
+609,#610,59,Male,Rural,73798,Food,27,4,109,3709,115,6,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+279,#280,41,Female,Suburban,68330,Technology,4,4,10,608,152,7,True,False,True,False,False,False,Product_Category_Preference_Books
+293,#294,35,Female,Urban,40644,Technology,2,2,197,4472,362,26,False,True,False,False,False,False,Product_Category_Preference_Apparel
+400,#401,39,Male,Suburban,101816,Technology,1,9,74,2828,590,46,False,False,False,True,False,False,Product_Category_Preference_Electronics
+122,#123,52,Male,Rural,69815,Sports,1,4,136,3726,88,32,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+183,#184,20,Female,Suburban,26397,Travel,17,4,104,4092,61,37,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+202,#203,20,Female,Urban,22096,Travel,3,8,56,4836,133,39,True,True,False,False,False,False,Product_Category_Preference_Apparel
+438,#439,18,Male,Suburban,87821,Food,27,5,106,2758,520,30,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+246,#247,58,Male,Urban,37015,Sports,8,5,139,3450,405,41,False,True,False,False,False,False,Product_Category_Preference_Apparel
+415,#416,21,Female,Rural,71578,Food,18,1,55,1087,82,2,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+932,#933,51,Male,Urban,148265,Food,6,4,152,175,23,8,False,True,False,False,False,False,Product_Category_Preference_Apparel
+765,#766,45,Female,Urban,109906,Fashion,13,8,90,2670,573,37,True,False,True,False,False,False,Product_Category_Preference_Books
+906,#907,42,Male,Rural,145566,Fashion,1,1,139,1664,550,5,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+835,#836,44,Male,Rural,36724,Fashion,1,3,179,4641,154,33,True,False,True,False,False,False,Product_Category_Preference_Books
+887,#888,40,Female,Urban,101348,Travel,12,5,43,4334,438,21,True,True,False,False,False,False,Product_Category_Preference_Apparel
+129,#130,52,Male,Suburban,63934,Sports,10,0,198,2366,382,1,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+637,#638,56,Male,Urban,32109,Technology,17,0,163,2215,170,2,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+402,#403,39,Female,Rural,33565,Travel,8,0,83,3546,253,19,True,True,False,False,False,False,Product_Category_Preference_Apparel
+784,#785,31,Male,Urban,120311,Sports,27,2,17,1452,161,48,False,False,True,False,False,False,Product_Category_Preference_Books
+770,#771,51,Male,Rural,98002,Food,6,4,134,715,312,46,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+735,#736,52,Male,Suburban,87580,Food,7,4,23,271,44,43,False,False,True,False,False,False,Product_Category_Preference_Books
+913,#914,20,Male,Suburban,119239,Sports,27,1,144,1516,268,16,False,False,False,True,False,False,Product_Category_Preference_Electronics
+219,#220,49,Male,Suburban,63619,Food,22,5,168,1950,279,25,False,False,True,False,False,False,Product_Category_Preference_Books
+641,#642,45,Female,Suburban,28472,Technology,19,8,35,1587,195,43,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+915,#916,62,Male,Urban,115344,Technology,1,2,97,4956,33,3,False,True,False,False,False,False,Product_Category_Preference_Apparel
+752,#753,34,Female,Rural,26581,Fashion,28,5,112,985,553,8,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+806,#807,21,Female,Suburban,49033,Sports,3,7,128,2253,408,15,True,False,False,True,False,False,Product_Category_Preference_Electronics
+919,#920,64,Female,Urban,44306,Technology,19,6,197,4393,440,26,True,True,False,False,False,False,Product_Category_Preference_Apparel
+624,#625,42,Female,Suburban,103297,Food,15,5,19,2140,421,1,True,False,True,False,False,False,Product_Category_Preference_Books
+874,#875,31,Male,Urban,98279,Sports,11,6,49,4328,457,45,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+760,#761,21,Male,Urban,147795,Sports,7,6,141,2957,599,32,False,False,False,True,False,False,Product_Category_Preference_Electronics
+386,#387,37,Male,Urban,38133,Travel,7,3,94,3926,482,16,True,False,True,False,False,False,Product_Category_Preference_Books
+972,#973,22,Male,Rural,92982,Sports,11,2,191,2884,333,7,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+509,#510,60,Male,Suburban,145949,Food,5,7,73,2178,385,21,True,True,False,False,False,False,Product_Category_Preference_Apparel
+267,#268,22,Female,Urban,35892,Technology,29,9,73,4240,289,44,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+819,#820,60,Male,Urban,116055,Fashion,26,8,94,3888,521,24,False,True,False,False,False,False,Product_Category_Preference_Apparel
+441,#442,49,Male,Rural,133193,Travel,11,1,163,3583,339,43,True,False,False,True,False,False,Product_Category_Preference_Electronics
+496,#497,41,Female,Rural,46170,Food,25,2,197,4651,395,14,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+112,#113,45,Male,Suburban,34226,Technology,23,6,143,4264,381,6,False,False,True,False,False,False,Product_Category_Preference_Books
+691,#692,53,Female,Suburban,136450,Travel,24,4,27,1393,591,47,False,False,False,True,False,False,Product_Category_Preference_Electronics
+232,#233,26,Male,Rural,65603,Travel,2,0,93,2142,196,14,False,False,True,False,False,False,Product_Category_Preference_Books
+869,#870,25,Male,Rural,64199,Fashion,18,6,195,2644,97,17,False,False,True,False,False,False,Product_Category_Preference_Books
+607,#608,30,Female,Suburban,102379,Technology,16,5,108,3887,117,33,False,False,False,True,False,False,Product_Category_Preference_Electronics
+671,#672,58,Female,Urban,72142,Food,14,0,133,2179,216,2,False,False,True,False,False,False,Product_Category_Preference_Books
+373,#374,26,Female,Urban,38708,Sports,29,9,119,4195,351,14,True,False,False,True,False,False,Product_Category_Preference_Electronics
+981,#982,64,Male,Suburban,141251,Travel,23,1,121,2117,522,12,True,False,False,True,False,False,Product_Category_Preference_Electronics
+842,#843,45,Female,Urban,85333,Food,8,7,189,1222,4,8,True,False,False,True,False,False,Product_Category_Preference_Electronics
+233,#234,23,Male,Urban,43252,Technology,9,3,94,1378,417,41,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+785,#786,19,Female,Suburban,37569,Sports,6,7,45,4476,289,20,False,False,True,False,False,False,Product_Category_Preference_Books
+676,#677,20,Female,Rural,54228,Food,10,0,55,1556,557,5,False,True,False,False,False,False,Product_Category_Preference_Apparel
+317,#318,62,Female,Urban,108553,Food,7,5,67,2917,428,28,False,False,True,False,False,False,Product_Category_Preference_Books
+648,#649,20,Male,Urban,73909,Sports,26,9,11,701,242,2,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+410,#411,25,Female,Urban,41253,Technology,15,7,190,664,280,47,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+898,#899,45,Female,Rural,42190,Sports,12,8,92,4116,231,2,False,False,False,True,False,False,Product_Category_Preference_Electronics
+709,#710,52,Female,Suburban,137886,Technology,23,9,78,1026,388,49,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+358,#359,57,Male,Rural,94071,Technology,26,3,39,4176,528,33,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+258,#259,47,Female,Urban,116044,Travel,17,9,114,2474,281,48,False,False,True,False,False,False,Product_Category_Preference_Books
+744,#745,55,Female,Suburban,79871,Travel,18,0,19,867,325,31,True,False,False,True,False,False,Product_Category_Preference_Electronics
+627,#628,53,Male,Urban,22597,Sports,8,6,195,1715,597,12,False,False,False,True,False,False,Product_Category_Preference_Electronics
+632,#633,56,Female,Urban,35037,Technology,28,5,157,4502,379,4,False,False,True,False,False,False,Product_Category_Preference_Books
+282,#283,53,Male,Urban,97454,Travel,20,6,134,787,72,3,False,False,True,False,False,False,Product_Category_Preference_Books
+376,#377,46,Male,Suburban,83870,Fashion,28,6,65,1887,163,23,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+384,#385,53,Male,Suburban,116468,Technology,22,4,138,2933,412,6,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+224,#225,41,Male,Rural,132443,Technology,19,8,100,1088,52,4,True,True,False,False,False,False,Product_Category_Preference_Apparel
+953,#954,41,Male,Urban,42785,Sports,7,7,132,2886,95,24,True,False,False,True,False,False,Product_Category_Preference_Electronics
+814,#815,51,Male,Rural,93869,Travel,5,8,60,4213,85,4,False,True,False,False,False,False,Product_Category_Preference_Apparel
+472,#473,50,Male,Rural,75661,Sports,17,1,178,3152,504,2,False,True,False,False,False,False,Product_Category_Preference_Apparel
+347,#348,50,Male,Urban,131672,Food,8,3,122,4059,393,1,False,False,False,True,False,False,Product_Category_Preference_Electronics
+505,#506,18,Female,Urban,122168,Travel,23,1,24,4443,265,6,True,False,False,True,False,False,Product_Category_Preference_Electronics
+639,#640,62,Male,Urban,28787,Food,10,3,87,2839,337,14,False,False,False,True,False,False,Product_Category_Preference_Electronics
+987,#988,28,Female,Suburban,95749,Sports,3,5,77,1538,488,6,True,False,False,True,False,False,Product_Category_Preference_Electronics
+928,#929,58,Female,Rural,71649,Food,21,7,178,4574,226,27,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+905,#906,61,Male,Suburban,23744,Travel,12,6,85,2006,160,47,True,False,True,False,False,False,Product_Category_Preference_Books
+619,#620,62,Male,Suburban,92954,Fashion,19,5,63,1456,63,11,False,True,False,False,False,False,Product_Category_Preference_Apparel
+855,#856,43,Female,Urban,69334,Sports,7,8,123,1644,342,41,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+803,#804,34,Female,Suburban,60583,Fashion,25,1,95,3709,387,15,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+645,#646,58,Male,Suburban,89785,Food,18,4,189,2531,573,22,False,False,False,True,False,False,Product_Category_Preference_Electronics
+846,#847,23,Female,Suburban,25463,Technology,23,3,73,4650,583,31,False,True,False,False,False,False,Product_Category_Preference_Apparel
+556,#557,58,Male,Suburban,104246,Travel,17,3,161,166,573,25,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+957,#958,37,Female,Suburban,114475,Technology,6,3,113,1512,7,26,False,False,False,True,False,False,Product_Category_Preference_Electronics
+577,#578,22,Male,Suburban,20155,Fashion,26,6,117,4300,88,2,True,False,False,True,False,False,Product_Category_Preference_Electronics
+795,#796,44,Female,Rural,138424,Sports,2,6,144,2560,500,45,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+85,#86,41,Female,Suburban,112197,Technology,7,9,44,144,128,24,False,False,False,True,False,False,Product_Category_Preference_Electronics
+242,#243,36,Female,Rural,20162,Food,18,2,180,2341,229,18,True,False,True,False,False,False,Product_Category_Preference_Books
+698,#699,53,Female,Suburban,52762,Fashion,14,5,57,4307,186,10,True,False,False,True,False,False,Product_Category_Preference_Electronics
+159,#160,30,Female,Rural,50447,Sports,8,3,50,472,527,1,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+524,#525,27,Male,Suburban,107489,Fashion,29,5,185,4873,577,7,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+35,#36,61,Female,Rural,99578,Technology,10,3,173,2515,75,30,False,False,True,False,False,False,Product_Category_Preference_Books
+540,#541,41,Male,Urban,140987,Technology,9,2,71,1344,431,27,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+170,#171,61,Male,Urban,131193,Sports,2,3,185,1140,587,6,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+654,#655,23,Female,Rural,104866,Sports,24,5,53,337,417,48,False,True,False,False,False,False,Product_Category_Preference_Apparel
+890,#891,64,Male,Rural,98682,Travel,20,7,27,128,387,36,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+857,#858,44,Female,Urban,42054,Technology,17,2,119,3223,19,14,False,False,False,True,False,False,Product_Category_Preference_Electronics
+847,#848,18,Male,Urban,132164,Technology,14,5,42,1045,31,44,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+944,#945,47,Female,Suburban,80058,Technology,19,5,20,2875,480,39,True,False,False,True,False,False,Product_Category_Preference_Electronics
+733,#734,51,Female,Urban,36288,Fashion,15,3,44,1568,334,25,False,False,True,False,False,False,Product_Category_Preference_Books
+95,#96,24,Female,Urban,88099,Travel,16,7,120,4973,465,44,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+563,#564,36,Male,Urban,38058,Technology,16,5,54,3770,178,8,False,False,True,False,False,False,Product_Category_Preference_Books
+240,#241,43,Female,Suburban,94971,Fashion,25,7,137,3639,402,13,False,True,False,False,False,False,Product_Category_Preference_Apparel
+742,#743,48,Female,Rural,106497,Fashion,27,4,43,1229,423,17,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+574,#575,36,Female,Suburban,57346,Food,3,9,129,4823,80,21,False,False,True,False,False,False,Product_Category_Preference_Books
+690,#691,45,Male,Suburban,115028,Sports,24,3,31,174,260,6,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+460,#461,22,Male,Rural,139798,Fashion,19,7,47,4384,325,35,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+553,#554,40,Male,Rural,90969,Fashion,22,2,155,1047,145,8,True,False,False,True,False,False,Product_Category_Preference_Electronics
+888,#889,63,Male,Urban,57383,Technology,21,5,62,1626,445,10,True,False,False,True,False,False,Product_Category_Preference_Electronics
+206,#207,19,Female,Suburban,141092,Sports,11,1,198,3436,376,18,True,False,False,True,False,False,Product_Category_Preference_Electronics
+392,#393,29,Male,Urban,47624,Travel,23,6,190,181,390,41,True,False,False,True,False,False,Product_Category_Preference_Electronics
+794,#795,32,Male,Rural,22261,Food,22,7,96,2019,62,7,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+397,#398,19,Female,Suburban,139664,Travel,5,4,177,3839,210,45,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+766,#767,48,Male,Rural,128069,Technology,13,9,83,1994,327,13,True,False,False,True,False,False,Product_Category_Preference_Electronics
+848,#849,22,Male,Suburban,90448,Travel,8,1,11,700,381,19,False,False,False,True,False,False,Product_Category_Preference_Electronics
+217,#218,49,Female,Suburban,22839,Technology,29,3,107,1645,167,44,True,True,False,False,False,False,Product_Category_Preference_Apparel
+4,#5,25,Male,Suburban,49725,Travel,2,5,141,4502,53,10,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+768,#769,56,Female,Urban,81944,Travel,17,4,15,696,493,37,False,False,True,False,False,False,Product_Category_Preference_Books
+642,#643,37,Male,Urban,135111,Travel,14,2,130,1657,275,42,True,True,False,False,False,False,Product_Category_Preference_Apparel
+929,#930,54,Male,Suburban,54610,Fashion,8,0,190,4875,558,39,False,True,False,False,False,False,Product_Category_Preference_Apparel
+612,#613,19,Male,Suburban,70939,Technology,16,7,16,2602,336,4,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+738,#739,23,Male,Urban,116136,Technology,9,2,149,4325,497,10,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+546,#547,49,Male,Suburban,79042,Sports,7,1,59,1181,257,15,False,True,False,False,False,False,Product_Category_Preference_Apparel
+725,#726,28,Female,Suburban,115998,Fashion,18,6,81,4775,294,19,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+683,#684,33,Male,Rural,79711,Food,4,2,87,781,67,16,False,False,False,True,False,False,Product_Category_Preference_Electronics
+98,#99,18,Male,Rural,89122,Travel,22,9,89,4144,521,1,True,False,True,False,False,False,Product_Category_Preference_Books
+804,#805,22,Female,Rural,132082,Travel,6,8,53,4035,226,22,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+727,#728,43,Female,Urban,70500,Sports,12,5,130,3862,541,1,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+573,#574,48,Female,Urban,21089,Food,6,9,129,3380,374,47,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+406,#407,32,Female,Urban,43648,Technology,6,9,196,3485,51,19,False,False,False,True,False,False,Product_Category_Preference_Electronics
+502,#503,54,Female,Rural,75426,Travel,11,0,65,4566,240,44,True,True,False,False,False,False,Product_Category_Preference_Apparel
+47,#48,43,Male,Rural,143193,Sports,5,8,112,3732,585,23,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+32,#33,33,Male,Rural,56735,Travel,29,1,108,965,414,19,True,False,False,True,False,False,Product_Category_Preference_Electronics
+779,#780,64,Male,Urban,134604,Sports,28,9,148,2528,482,16,False,True,False,False,False,False,Product_Category_Preference_Apparel
+839,#840,38,Male,Suburban,32605,Fashion,17,9,84,1661,493,17,True,False,True,False,False,False,Product_Category_Preference_Books
+200,#201,56,Female,Urban,42436,Food,27,6,140,3782,321,2,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+134,#135,18,Female,Urban,101580,Fashion,2,0,30,1082,143,10,False,False,True,False,False,False,Product_Category_Preference_Books
+27,#28,61,Male,Urban,142721,Food,1,0,76,533,145,23,False,False,False,True,False,False,Product_Category_Preference_Electronics
+880,#881,19,Male,Rural,88847,Technology,8,9,28,432,513,39,False,True,False,False,False,False,Product_Category_Preference_Apparel
+230,#231,33,Male,Suburban,33975,Technology,19,2,103,1525,393,22,False,False,True,False,False,False,Product_Category_Preference_Books
+489,#490,41,Male,Suburban,139052,Fashion,29,5,112,537,167,20,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+772,#773,29,Male,Rural,38230,Fashion,13,4,20,4751,97,1,True,True,False,False,False,False,Product_Category_Preference_Apparel
+378,#379,43,Male,Urban,50573,Food,26,2,156,1707,510,15,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+288,#289,52,Male,Urban,22539,Fashion,2,1,170,424,328,48,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+418,#419,49,Female,Rural,52658,Technology,25,9,80,450,273,7,False,True,False,False,False,False,Product_Category_Preference_Apparel
+674,#675,48,Female,Rural,144023,Fashion,24,9,29,461,90,5,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+391,#392,31,Female,Urban,76700,Fashion,23,0,30,2835,382,41,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+592,#593,52,Female,Urban,118745,Sports,11,5,190,1394,237,22,True,False,True,False,False,False,Product_Category_Preference_Books
+498,#499,52,Female,Rural,40095,Technology,16,5,83,4824,187,49,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+138,#139,56,Male,Rural,26256,Sports,11,5,68,4220,158,46,True,True,False,False,False,False,Product_Category_Preference_Apparel
+62,#63,19,Female,Suburban,25110,Technology,25,8,131,3538,330,40,True,False,False,True,False,False,Product_Category_Preference_Electronics
+471,#472,53,Male,Rural,31205,Travel,18,4,106,1105,46,41,True,False,False,True,False,False,Product_Category_Preference_Electronics
+647,#648,18,Male,Urban,54518,Fashion,12,3,163,1408,178,19,False,False,True,False,False,False,Product_Category_Preference_Books
+128,#129,18,Male,Suburban,33428,Food,26,0,175,4125,578,22,False,True,False,False,False,False,Product_Category_Preference_Apparel
+976,#977,36,Male,Rural,120123,Fashion,20,2,119,4079,200,16,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+520,#521,43,Male,Suburban,50930,Fashion,25,4,31,3915,498,34,True,False,True,False,False,False,Product_Category_Preference_Books
+838,#839,36,Male,Suburban,37087,Technology,13,2,34,4969,421,40,True,False,True,False,False,False,Product_Category_Preference_Books
+962,#963,23,Female,Rural,109900,Technology,2,8,162,4233,81,27,False,False,True,False,False,False,Product_Category_Preference_Books
+64,#65,59,Male,Suburban,32087,Fashion,23,4,115,3591,132,48,False,True,False,False,False,False,Product_Category_Preference_Apparel
+812,#813,41,Female,Urban,115074,Food,27,7,47,2820,448,32,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+14,#15,41,Male,Urban,122031,Travel,11,5,155,4296,299,43,False,False,False,True,False,False,Product_Category_Preference_Electronics
+156,#157,60,Male,Suburban,65253,Sports,19,5,10,2831,246,22,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+40,#41,26,Female,Rural,57900,Food,3,0,83,1273,159,13,False,False,False,True,False,False,Product_Category_Preference_Electronics
+492,#493,45,Male,Urban,53691,Technology,2,4,99,3261,65,24,False,False,True,False,False,False,Product_Category_Preference_Books
+379,#380,52,Female,Urban,98707,Travel,14,9,66,3848,365,6,True,True,False,False,False,False,Product_Category_Preference_Apparel
+187,#188,44,Male,Suburban,73072,Fashion,26,9,125,2092,176,30,True,True,False,False,False,False,Product_Category_Preference_Apparel
+763,#764,49,Male,Rural,34567,Sports,25,6,139,1607,120,33,True,True,False,False,False,False,Product_Category_Preference_Apparel
+216,#217,43,Male,Suburban,114848,Food,1,9,102,2580,41,11,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+791,#792,51,Male,Suburban,62070,Technology,28,2,59,4747,218,21,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+52,#53,24,Male,Urban,135725,Technology,27,4,166,1090,482,45,True,False,False,True,False,False,Product_Category_Preference_Electronics
+878,#879,31,Female,Urban,129835,Sports,23,0,156,3775,123,16,False,True,False,False,False,False,Product_Category_Preference_Apparel
+337,#338,63,Male,Rural,147941,Sports,10,1,188,1932,253,28,True,False,False,True,False,False,Product_Category_Preference_Electronics
+748,#749,54,Male,Urban,118646,Fashion,12,3,199,2108,558,18,True,False,False,True,False,False,Product_Category_Preference_Electronics
+719,#720,22,Male,Suburban,74306,Travel,2,8,24,2844,171,1,True,False,False,True,False,False,Product_Category_Preference_Electronics
+724,#725,64,Female,Suburban,87028,Fashion,16,5,158,4625,227,40,False,True,False,False,False,False,Product_Category_Preference_Apparel
+295,#296,52,Female,Urban,140852,Travel,24,9,71,3657,321,26,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+701,#702,26,Male,Rural,148775,Fashion,10,1,93,986,492,6,True,False,False,True,False,False,Product_Category_Preference_Electronics
+251,#252,57,Male,Rural,120318,Technology,25,6,143,187,511,15,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+726,#727,38,Female,Suburban,69812,Fashion,19,8,158,1660,267,6,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+461,#462,64,Female,Rural,109087,Technology,22,5,128,3285,244,8,True,False,False,True,False,False,Product_Category_Preference_Electronics
+455,#456,54,Male,Rural,24135,Fashion,3,6,64,680,109,32,True,True,False,False,False,False,Product_Category_Preference_Apparel
+996,#997,40,Male,Urban,99003,Travel,16,3,180,431,359,4,True,True,False,False,False,False,Product_Category_Preference_Apparel
+815,#816,23,Male,Suburban,25410,Food,20,1,19,1877,167,22,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+862,#863,64,Female,Urban,101554,Technology,23,5,181,4998,192,29,False,True,False,False,False,False,Product_Category_Preference_Apparel
+269,#270,49,Female,Rural,37073,Fashion,10,8,171,3350,14,28,True,False,False,True,False,False,Product_Category_Preference_Electronics
+201,#202,19,Male,Rural,62963,Food,29,9,199,308,569,33,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+161,#162,24,Female,Rural,103930,Food,10,8,84,948,510,33,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+555,#556,52,Female,Urban,125400,Technology,15,3,166,1817,420,19,True,False,True,False,False,False,Product_Category_Preference_Books
+729,#730,39,Female,Rural,78643,Fashion,17,6,175,2822,449,33,False,False,False,True,False,False,Product_Category_Preference_Electronics
+401,#402,42,Male,Suburban,42263,Fashion,28,1,109,3635,186,10,True,False,False,True,False,False,Product_Category_Preference_Electronics
+702,#703,50,Male,Suburban,34849,Sports,8,9,164,3633,513,43,False,False,True,False,False,False,Product_Category_Preference_Books
+476,#477,27,Male,Suburban,145576,Travel,11,5,12,1707,124,4,True,False,True,False,False,False,Product_Category_Preference_Books
+821,#822,64,Male,Suburban,26796,Food,7,8,135,3837,258,13,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+771,#772,20,Female,Urban,48803,Sports,19,9,60,1047,309,17,False,True,False,False,False,False,Product_Category_Preference_Apparel
+105,#106,52,Male,Rural,113059,Sports,14,4,19,1316,47,38,True,True,False,False,False,False,Product_Category_Preference_Apparel
+565,#566,29,Male,Urban,60718,Technology,23,5,26,2351,46,5,False,True,False,False,False,False,Product_Category_Preference_Apparel
+389,#390,63,Male,Urban,20781,Fashion,15,1,188,2797,590,48,True,False,True,False,False,False,Product_Category_Preference_Books
+1,#2,46,Female,Rural,103986,Technology,15,7,118,320,432,40,False,False,False,True,False,False,Product_Category_Preference_Electronics
+937,#938,39,Female,Rural,84200,Sports,13,1,165,2362,553,19,True,False,True,False,False,False,Product_Category_Preference_Books
+982,#983,18,Male,Suburban,120962,Travel,28,1,67,1328,415,6,True,False,True,False,False,False,Product_Category_Preference_Books
+561,#562,39,Female,Rural,92516,Sports,20,5,51,1701,57,1,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+80,#81,38,Male,Suburban,98645,Food,9,3,137,3157,418,26,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+205,#206,19,Male,Rural,45279,Travel,21,5,105,2399,57,32,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+34,#35,64,Female,Urban,100102,Food,17,1,150,3011,104,4,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+775,#776,22,Female,Suburban,51259,Sports,26,9,149,2113,463,39,True,False,False,True,False,False,Product_Category_Preference_Electronics
+508,#509,27,Male,Suburban,44217,Sports,27,6,37,3473,70,44,False,True,False,False,False,False,Product_Category_Preference_Apparel
+427,#428,36,Male,Urban,71707,Sports,13,8,79,2519,111,29,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+454,#455,33,Female,Rural,21898,Fashion,17,3,139,1069,560,8,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+366,#367,44,Female,Suburban,87263,Food,17,3,167,1674,288,3,False,False,False,True,False,False,Product_Category_Preference_Electronics
+91,#92,32,Male,Suburban,35379,Travel,23,4,16,3932,136,32,True,False,False,True,False,False,Product_Category_Preference_Electronics
+339,#340,52,Female,Rural,98021,Sports,13,1,188,592,158,16,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+897,#898,54,Male,Rural,23760,Sports,1,4,22,1965,146,40,False,True,False,False,False,False,Product_Category_Preference_Apparel
+564,#565,53,Male,Suburban,96637,Travel,1,8,91,1125,293,4,False,False,False,True,False,False,Product_Category_Preference_Electronics
+345,#346,48,Male,Suburban,103457,Technology,27,1,74,272,56,1,False,False,True,False,False,False,Product_Category_Preference_Books
+776,#777,47,Female,Suburban,119075,Food,14,6,82,3797,132,10,False,True,False,False,False,False,Product_Category_Preference_Apparel
+241,#242,20,Male,Suburban,123302,Food,8,5,122,3583,492,16,True,False,True,False,False,False,Product_Category_Preference_Books
+13,#14,57,Female,Rural,142041,Fashion,29,7,88,1543,139,41,True,True,False,False,False,False,Product_Category_Preference_Apparel
+315,#316,55,Male,Rural,44259,Food,29,9,39,1972,17,45,False,False,False,True,False,False,Product_Category_Preference_Electronics
+600,#601,26,Female,Rural,29528,Food,20,5,193,1198,292,17,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+387,#388,18,Male,Urban,145555,Technology,21,9,174,4674,192,24,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+273,#274,36,Male,Suburban,146021,Fashion,3,8,119,1201,400,18,False,False,True,False,False,False,Product_Category_Preference_Books
+166,#167,62,Female,Suburban,136859,Fashion,19,0,72,802,64,41,False,False,True,False,False,False,Product_Category_Preference_Books
+840,#841,22,Male,Suburban,51337,Technology,24,7,32,4106,411,40,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+992,#993,50,Male,Urban,62849,Sports,28,8,114,2363,15,16,False,True,False,False,False,False,Product_Category_Preference_Apparel
+646,#647,56,Female,Urban,133253,Food,7,5,77,1682,599,4,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+818,#819,60,Female,Urban,83315,Technology,21,9,79,3315,72,17,False,True,False,False,False,False,Product_Category_Preference_Apparel
+484,#485,18,Female,Urban,51852,Food,10,8,10,987,2,29,False,False,True,False,False,False,Product_Category_Preference_Books
+980,#981,29,Female,Urban,148657,Fashion,4,6,118,3777,154,17,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+504,#505,20,Female,Rural,46819,Sports,2,5,41,1571,141,2,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+831,#832,42,Female,Urban,123291,Food,13,8,36,4853,84,28,False,True,False,False,False,False,Product_Category_Preference_Apparel
+243,#244,37,Male,Urban,54742,Food,19,5,26,2865,575,7,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+566,#567,58,Male,Urban,52602,Sports,27,3,82,4857,170,25,True,False,False,True,False,False,Product_Category_Preference_Electronics
+875,#876,43,Male,Urban,80348,Technology,21,0,98,220,273,24,False,True,False,False,False,False,Product_Category_Preference_Apparel
+562,#563,30,Female,Suburban,75915,Food,18,2,110,925,562,6,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+686,#687,29,Female,Urban,84307,Sports,22,3,171,4949,68,10,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+189,#190,54,Male,Urban,103820,Sports,3,2,91,406,131,44,True,False,True,False,False,False,Product_Category_Preference_Books
+782,#783,54,Male,Urban,66571,Sports,25,5,19,1733,512,12,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+699,#700,44,Male,Suburban,28259,Sports,5,1,28,3132,479,34,True,False,False,True,False,False,Product_Category_Preference_Electronics
+475,#476,40,Female,Urban,22591,Fashion,15,9,80,2383,208,16,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+681,#682,27,Female,Rural,69437,Technology,29,7,75,2609,338,27,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+510,#511,61,Female,Rural,108708,Technology,19,0,196,1621,198,42,False,True,False,False,False,False,Product_Category_Preference_Apparel
+58,#59,34,Male,Rural,137322,Travel,29,3,192,4122,378,22,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+474,#475,54,Female,Urban,25906,Fashion,23,1,160,2402,555,3,False,False,True,False,False,False,Product_Category_Preference_Books
+560,#561,42,Male,Rural,26416,Technology,18,2,27,664,555,28,False,False,True,False,False,False,Product_Category_Preference_Books
+856,#857,62,Male,Suburban,88648,Technology,5,6,155,178,482,7,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+747,#748,54,Male,Suburban,109388,Sports,9,1,154,3554,112,37,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+252,#253,18,Male,Suburban,29833,Travel,8,0,90,1258,89,40,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+21,#22,55,Female,Rural,58787,Sports,23,2,118,4186,554,13,True,True,False,False,False,False,Product_Category_Preference_Apparel
+313,#314,63,Female,Urban,27345,Technology,19,7,160,1867,28,27,False,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+459,#460,45,Male,Suburban,105120,Technology,21,3,96,329,203,29,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+160,#161,49,Female,Rural,148046,Travel,15,0,132,2348,255,19,False,False,False,True,False,False,Product_Category_Preference_Electronics
+276,#277,37,Male,Suburban,34289,Technology,8,1,80,2361,464,7,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+955,#956,23,Male,Rural,138696,Sports,27,1,198,4296,41,17,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+191,#192,59,Male,Rural,43284,Technology,26,7,88,4209,310,35,True,False,True,False,False,False,Product_Category_Preference_Books
+385,#386,62,Female,Rural,116334,Fashion,10,1,61,1497,118,15,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+805,#806,46,Male,Suburban,105371,Food,14,5,83,4719,481,6,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+413,#414,22,Male,Suburban,46390,Technology,24,9,88,2600,238,38,False,False,True,False,False,False,Product_Category_Preference_Books
+491,#492,19,Male,Urban,21283,Sports,11,6,80,3849,282,2,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+343,#344,46,Female,Suburban,33140,Fashion,8,2,175,3507,463,3,False,False,False,True,False,False,Product_Category_Preference_Electronics
+769,#770,43,Male,Rural,138428,Sports,5,6,145,2247,286,26,True,True,False,False,False,False,Product_Category_Preference_Apparel
+308,#309,34,Female,Urban,62891,Food,26,0,48,3495,15,37,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+661,#662,33,Female,Urban,68454,Technology,5,8,158,3468,464,4,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+130,#131,54,Female,Rural,135555,Travel,15,5,87,191,570,29,True,True,False,False,False,False,Product_Category_Preference_Apparel
+663,#664,28,Male,Suburban,92766,Technology,8,1,57,3765,474,32,False,True,False,False,False,False,Product_Category_Preference_Apparel
+871,#872,32,Female,Rural,28210,Travel,14,5,170,3381,278,45,False,False,True,False,False,False,Product_Category_Preference_Books
+99,#100,61,Male,Suburban,36087,Food,9,7,92,4426,139,36,False,True,False,False,False,False,Product_Category_Preference_Apparel
+372,#373,50,Male,Urban,83878,Sports,3,1,151,2789,131,20,True,False,False,True,False,False,Product_Category_Preference_Electronics
+87,#88,42,Male,Suburban,124195,Sports,9,6,23,2567,414,44,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+458,#459,31,Male,Suburban,145147,Travel,27,2,89,1311,550,13,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+330,#331,21,Female,Urban,38474,Travel,4,4,38,3615,31,44,True,False,False,True,False,False,Product_Category_Preference_Electronics
+214,#215,19,Male,Suburban,25105,Travel,24,5,87,3492,329,12,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+466,#467,33,Female,Rural,37071,Sports,3,3,88,3155,380,22,True,False,True,False,False,False,Product_Category_Preference_Books
+121,#122,54,Male,Suburban,98229,Sports,22,9,35,545,275,17,True,False,True,False,False,False,Product_Category_Preference_Books
+614,#615,46,Male,Suburban,76526,Sports,21,8,55,1767,147,13,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+20,#21,47,Female,Suburban,102368,Travel,1,9,179,3234,115,20,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+700,#701,34,Female,Rural,70139,Sports,6,3,15,560,571,36,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+71,#72,27,Male,Suburban,127539,Food,17,2,127,4034,464,11,True,False,True,False,False,False,Product_Category_Preference_Books
+106,#107,52,Female,Suburban,56727,Food,20,7,43,980,94,33,False,True,False,False,False,False,Product_Category_Preference_Apparel
+270,#271,26,Male,Rural,122304,Travel,29,9,192,517,257,32,True,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+860,#861,64,Male,Suburban,100650,Technology,29,4,134,325,10,29,False,False,False,False,True,False,Product_Category_Preference_Health & Beauty
+435,#436,26,Female,Suburban,41038,Sports,29,9,155,4533,240,26,True,False,False,False,False,True,Product_Category_Preference_Home & Kitchen
+102,#103,28,Female,Urban,43225,Technology,5,8,182,1481,53,36,True,False,False,True,False,False,Product_Category_Preference_Electronics
